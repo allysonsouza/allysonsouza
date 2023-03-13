@@ -10,13 +10,13 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 
 <p>
 <img src="assets/icons/community.png" title="Meetup Organizer" />
-<img src="assets/icons/wordcamp.svg" title="WordCamp Organizer" />
-<img src="assets/icons/speaker.svg" title="WordCamp Speaker" />
-<img src="assets/icons/support-team.svg" title="Support Team" />
-<img src="assets/icons/support.svg" title="Support Contributor" />
-<img src="assets/icons/plugin.svg" title="Plugin Developer" />
-<img src="assets/icons/translation-editor.svg" title="Translation Editor" />
-<img src="assets/icons/translation-contributor.svg" title="Translation Contributor" />
+<img src="assets/icons/wordcamp.png" title="WordCamp Organizer" />
+<img src="assets/icons/speaker.png" title="WordCamp Speaker" />
+<img src="assets/icons/support-team.png" title="Support Team" />
+<img src="assets/icons/support.png" title="Support Contributor" />
+<img src="assets/icons/plugin.png" title="Plugin Developer" />
+<img src="assets/icons/translation-editor.png" title="Translation Editor" />
+<img src="assets/icons/translation-contributor.png" title="Translation Contributor" />
 </p>
 
 ---
