@@ -1,7 +1,8 @@
 ### About
 
-
 My name is Allyson, I believe we have to work for an open web, with FOSS. Among several things, I like design, programming and games. I am one of the founders of [@HasteDesign](https://github.com/HasteDesign), which entered in hiatus Aug/22, and currently I'm a developer at [@NextPress](https://github.com/next-press). I contribute, whenever possible, to the WordPress community in São Paulo, although I’m a bit away at the moment.
+
+---
 
 ### WordPress Badges
 
@@ -18,9 +19,13 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 <img src="assets/icons/translation-contributor.svg" title="Translation Contributor" />
 </p>
 
+---
+
 ### Work
 
 #### Currently _Senior Web Developer at [@NextPress](https://nextpress.co/)_
+
+---
 
 ### Toolset
 
@@ -74,6 +79,8 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 <img src="https://img.shields.io/badge/Hoppscotch-31C48D.svg?style=for-the-badge&logo=Hoppscotch&logoColor=white" />
 <img src="https://img.shields.io/badge/Laragon-0E83CD.svg?style=for-the-badge&logo=Laragon&logoColor=white" />
 </p>
+
+---
 
 ### Stats
 
