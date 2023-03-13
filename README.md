@@ -77,4 +77,4 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 
 ### Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=allysonsouza&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allysonsouza)](https://github.com/anuraghazra/github-readme-stats)
