@@ -75,5 +75,6 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 <img src="https://img.shields.io/badge/Laragon-0E83CD.svg?style=for-the-badge&logo=Laragon&logoColor=white" />
 </p>
 
+### Stats
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=allysonsouza&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
