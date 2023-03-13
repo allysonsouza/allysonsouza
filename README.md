@@ -9,7 +9,7 @@ My name is Allyson, I believe we have to work for an open web, with FOSS. Among 
 WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsouza/)
 
 <p>
-<img src="assets/icons/community.svg" title="Meetup Organizer" />
+<img src="assets/icons/community.png" title="Meetup Organizer" />
 <img src="assets/icons/wordcamp.svg" title="WordCamp Organizer" />
 <img src="assets/icons/speaker.svg" title="WordCamp Speaker" />
 <img src="assets/icons/support-team.svg" title="Support Team" />
