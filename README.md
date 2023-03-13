@@ -73,7 +73,6 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 <img src="https://img.shields.io/badge/EditorConfig-FEFEFE.svg?style=for-the-badge&logo=EditorConfig&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB.svg?style=for-the-badge&logo=Google-Tag-Manager&logoColor=white" />
 <img src="https://img.shields.io/badge/Hoppscotch-31C48D.svg?style=for-the-badge&logo=Hoppscotch&logoColor=white" />
