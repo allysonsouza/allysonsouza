@@ -1,6 +1,10 @@
 ### About
 
-My name is Allyson, I believe we have to work for an open web, with FOSS. Among several things, I like design, programming and games. I am one of the founders of [@HasteDesign](https://github.com/HasteDesign), which entered in hiatus Aug/22, and currently I'm a developer at [@NextPress](https://github.com/next-press). I contribute, whenever possible, to the WordPress community in São Paulo, although I’m a bit away at the moment.
+Hi, I’m Allyson, a Web Developer based on Sao Paulo/Brazil. I’m a former Graphic Designer that became a Developer, with WordPress as the main (but not the only) platform I’ve been working with since then. I had a company, [@HasteDesign](https://github.com/HasteDesign), from 2009 to 2022, in which I acted as a Lead Developer/Project Manager, developing form small business websites, to large customized e-commerce platforms.
+
+Since September 2022, I’ve been working on [@NextPress](https://github.com/next-press) as a Senior Web Developer, working mostly with WP Ultimo plugin and their add-ons.
+
+Also, I have been contributing to WordPress local community since 2014, as a meetup and WordCamp organizer in São Paulo, local forum moderator and contributor, former Facebook group "WordPress Brasil" moderator, General Translation Editor and local Slack staff member.
 
 ---
 
