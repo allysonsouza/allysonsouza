@@ -1,10 +1,9 @@
 ### About
 
-Hi, I’m Allyson, a Web Developer based on Sao Paulo/Brazil. I’m a former Graphic Designer that became a Developer, with WordPress as the main (but not the only) platform I’ve been working with since then. I had a company, [@HasteDesign](https://github.com/HasteDesign), from 2009 to 2022, in which I acted as a Lead Developer/Project Manager, developing form small business websites, to large customized e-commerce platforms.
+My name is Allyson Souza, I’m a web developer specializing in WordPress. Free software and open web enthusiast. Former Senior Web Developer at [@NextPress/WP Ultimo](https://github.com/wp-ultimo) and Former Co-
+founder and Web Developer of [@HasteDesign](https://github.com/HasteDesign).
 
-Since September 2022, I’ve been working on [@NextPress](https://github.com/next-press) as a Senior Web Developer, working mostly with WP Ultimo plugin and their add-ons.
-
-Also, I have been contributing to WordPress local community since 2014, as a meetup and WordCamp organizer in São Paulo, local forum moderator and contributor, former Facebook group "WordPress Brasil" moderator, General Translation Editor and local Slack staff member.
+I have contributed to the WordPress community, having co-organized events in the São Paulo community from 2014 to 2021, Global Translator Editor, and moderator of the national forum, among other contributions. 
 
 ---
 
@@ -27,7 +26,7 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 
 ### Work
 
-#### Currently _Senior Web Developer at [@NextPress](https://nextpress.co/)_
+**Open to Work**: my current goal is to find an opportunity where I can grow my skills and work with experienced co-workers from different cultures and backgrounds, work on large-scale projects and learn new technologies and methodologies.
 
 ---
 
