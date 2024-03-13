@@ -1,6 +1,6 @@
 ### About
 
-My name is Allyson Souza, I’m a web developer specializing in WordPress. Free software and open web enthusiast. Former Senior Web Developer at [@NextPress/WP Ultimo](https://github.com/wp-ultimo) and Former Co-
+My name is Allyson Souza, I’m a web developer specializing in WordPress. Free software and open web enthusiast. Former Senior Web Developer at [@NextPress/WP Ultimo](https://github.com/next-press) and Former Co-
 founder and Web Developer of [@HasteDesign](https://github.com/HasteDesign).
 
 I have contributed to the WordPress community, having co-organized events in the São Paulo community from 2014 to 2021, Global Translator Editor, and moderator of the national forum, among other contributions. 
