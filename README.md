@@ -78,5 +78,3 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 ### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allysonsouza)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](https://metrics.lecoq.io/allysonsouza?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&habits=1&achievements=1&gists=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=30&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&gists=false&rss=false&rss.source=https%3A%2F%2Fallysonsouza.com.br%2Frss&rss.limit=4&config.timezone=America%2FSao_Paulo)
