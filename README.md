@@ -24,12 +24,6 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 
 ---
 
-### Work
-
-**Open to Work**: my current goal is to find an opportunity where I can grow my skills and work with experienced co-workers from different cultures and backgrounds, work on large-scale projects and learn new technologies and methodologies.
-
----
-
 ### Toolset
 
 #### Languages
@@ -40,9 +34,6 @@ WordPress.org Profile: [@allysonsouza](https://profiles.wordpress.org/allysonsou
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-FFD500.svg?style=for-the-badge&logo=Shell&logoColor=black" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" />
 </p>
 
 #### Frameworks and Libraries
