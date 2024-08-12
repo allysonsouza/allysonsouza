@@ -1,6 +1,6 @@
 ### About
 
-My name is Allyson Souza, I’m a Web Engineer specializing in WordPress. Free software and open web enthusiast.
+My name is Allyson Souza, I’m a Web Engineer at [@Human Made](https://github.com/HumanMade). Free software and open web enthusiast.
 - Former Senior Web Developer at [@NextPress/WP Ultimo](https://github.com/next-press)
 - Former Co-founder of [@HasteDesign](https://github.com/HasteDesign)
 
